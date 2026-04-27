@@ -23,6 +23,7 @@ import {
   SingleBeadDoodle,
   StaticConfetti
 } from "@/components/Doodles/Doodles";
+import { buildMetadata } from "@/utils/seoConfig";
 
 export const metadata = buildMetadata("career");
 
